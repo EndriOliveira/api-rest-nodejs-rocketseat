@@ -3,3 +3,4 @@ data/db/mydatabase.db
 data/db/test.db
 .env
 .env.test
+build
